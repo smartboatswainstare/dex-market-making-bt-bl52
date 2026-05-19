@@ -1,4 +1,4 @@
-# 
+# smart deribit trading bot executor is the best deribit trading bot executor with leverage-management and stop-loss. Safe, reliable, and optimized for CEX, DEX, and algorithmic
 
 
 
